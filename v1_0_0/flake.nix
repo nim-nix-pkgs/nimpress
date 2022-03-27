@@ -11,6 +11,7 @@
   inputs.src-nimpress-v1_0_0.ref   = "refs/tags/v1.0.0";
   inputs.src-nimpress-v1_0_0.owner = "mpinese";
   inputs.src-nimpress-v1_0_0.repo  = "nimpress";
+  inputs.src-nimpress-v1_0_0.dir   = "";
   inputs.src-nimpress-v1_0_0.type  = "github";
   
   inputs."docopt".owner = "nim-nix-pkgs";

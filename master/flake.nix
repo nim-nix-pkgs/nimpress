@@ -11,6 +11,7 @@
   inputs.src-nimpress-master.ref   = "refs/heads/master";
   inputs.src-nimpress-master.owner = "mpinese";
   inputs.src-nimpress-master.repo  = "nimpress";
+  inputs.src-nimpress-master.dir   = "";
   inputs.src-nimpress-master.type  = "github";
   
   inputs."docopt".owner = "nim-nix-pkgs";
