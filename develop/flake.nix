@@ -11,7 +11,6 @@
   inputs.src-nimpress-develop.ref   = "refs/heads/develop";
   inputs.src-nimpress-develop.owner = "mpinese";
   inputs.src-nimpress-develop.repo  = "nimpress";
-  inputs.src-nimpress-develop.dir   = "";
   inputs.src-nimpress-develop.type  = "github";
   
   inputs."docopt".owner = "nim-nix-pkgs";
